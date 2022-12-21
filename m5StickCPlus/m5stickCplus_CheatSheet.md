@@ -12,6 +12,6 @@ Buzzer|||||Buzzer Pin
 
 ### GROVE PORT
 ------
-| ESP32 | GPIO33| GPIO9 | GPIO32| 5V| GND| 
-| --- | --- | --- | --- | --- | --- |
-|GROVE | port | SCL | SDA | 5V | GND |
+| ESP32 | # GPIO33 | GPIO32 | 5V| GND| 
+| --- | --- | --- | --- | --- |
+|GROVE Port | SCL | SDA | 5V | GND |
