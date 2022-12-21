@@ -1,0 +1,15 @@
+Temp and Humidity
+Ambient -> I2C 
+Water -> Changes by resistant, documentation didnt state how to use. But resistance increase with temp.
+LEAF -> I2C
+
+Water
+PH | SEN0169-V2 -> Plug and play (SERIAL WORKS)
+EC | Industrial EC & TDS Sensor -> Modbus Rs485
+Level | Liquid Level Sensor -> Plug and play (SERIAL WORKS)
+Flow | SEN0217 -> Plug and play (SERIAL WORKS)
+
+Light
+Spectrum -> I2C (Require mikroSDK)
+LUX -> I2C
+
